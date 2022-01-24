@@ -1,0 +1,801 @@
+id,gender,group,preparation rating,CSE1203 Discrete Mathematics score,EEE2142 Electronic Devices and Circuits' score,CSE2200 Software Development I's score,MATH2203 Mathematics IV's score,Admission Fees,Education Level of Parents
+0,female,A2,3,72,72,74,63,standard,BD
+1,female,A3,5,69,90,88,80,standard,CD
+2,female,A2,1,90,95,93,89,standard,master's degree
+3,male,A1,4,47,57,44,42,free,associate's degree
+4,male,A3,2,76,78,75,84,standard,CD
+5,female,A2,4,71,83,78,69,standard,associate's degree
+6,female,A2,5,88,95,92,81,standard,CD
+7,male,A2,1,40,43,39,46,free,CD
+8,male,A4,5,64,64,67,76,free,ED
+9,female,A2,0,38,60,50,45,free,ED
+10,male,A3,3,58,54,52,50,standard,associate's degree
+11,male,A4,1,40,52,43,50,standard,associate's degree
+12,female,A2,2,65,81,73,79,standard,ED
+13,male,A1,5,78,72,70,64,standard,CD
+14,female,A1,4,50,53,58,44,standard,master's degree
+15,female,A3,0,69,75,78,69,standard,ED
+16,male,A3,1,88,89,86,75,standard,ED
+17,female,A2,2,18,32,28,14,free,ED
+18,male,A3,5,46,42,46,43,free,master's degree
+19,female,A3,2,54,58,61,67,free,associate's degree
+20,male,A4,2,66,69,63,74,standard,ED
+21,female,A2,5,65,75,70,62,free,CD
+22,male,A4,0,44,54,53,66,standard,CD
+23,female,A3,2,69,73,73,78,standard,ED
+24,male,A4,5,74,71,80,75,free,BD
+25,male,A1,1,73,74,72,66,free,master's degree
+26,male,A2,3,69,54,55,66,standard,CD
+27,female,A3,2,67,69,75,89,standard,BD
+28,male,A3,1,70,70,65,69,standard,ED
+29,female,A4,2,62,70,75,86,standard,master's degree
+30,female,A4,4,69,74,74,66,standard,CD
+31,female,A2,1,63,65,61,62,standard,CD
+32,female,group E,3,56,72,65,67,free,master's degree
+33,male,A4,3,40,42,38,36,standard,CD
+34,male,group E,4,97,87,82,80,standard,CD
+35,male,group E,5,81,81,79,87,standard,associate's degree
+36,female,A4,3,74,81,83,93,standard,associate's degree
+37,female,A4,2,50,64,59,69,free,ED
+38,female,A4,5,75,90,88,74,free,associate's degree
+39,male,A2,3,57,56,57,59,free,associate's degree
+40,male,A3,1,55,61,54,40,free,associate's degree
+41,female,A3,3,58,73,68,55,standard,associate's degree
+42,female,A2,2,53,58,65,73,standard,associate's degree
+43,male,A2,5,59,65,66,63,free,CD
+44,female,group E,0,50,56,54,49,free,associate's degree
+45,male,A2,2,65,54,57,62,standard,associate's degree
+46,female,A1,5,55,65,62,51,standard,associate's degree
+47,female,A3,3,66,71,76,75,standard,ED
+48,female,A4,5,57,74,76,71,free,associate's degree
+49,male,A3,5,82,84,82,70,standard,ED
+50,male,group E,2,53,55,48,44,standard,CD
+51,male,group E,5,77,69,68,55,free,associate's degree
+52,male,A3,3,53,44,42,37,standard,CD
+53,male,A4,1,88,78,75,77,standard,ED
+54,female,A3,5,71,84,87,88,free,ED
+55,female,A3,4,33,41,43,52,free,ED
+56,female,group E,5,82,85,86,81,standard,associate's degree
+57,male,A4,2,52,55,49,58,standard,associate's degree
+58,male,A4,5,58,59,58,52,standard,CD
+59,female,A3,4,0,17,10,1,free,ED
+60,male,group E,5,79,74,72,69,free,BD
+61,male,A1,0,39,39,34,21,free,ED
+62,male,A1,2,62,61,55,62,free,associate's degree
+63,female,A3,1,69,80,71,76,standard,associate's degree
+64,female,A4,3,59,58,59,71,standard,ED
+65,male,A2,2,67,64,61,67,standard,ED
+66,male,A4,3,45,37,37,49,free,ED
+67,female,A3,1,60,72,74,69,standard,CD
+68,male,A2,3,61,58,56,55,free,associate's degree
+69,female,A3,2,39,64,57,67,standard,associate's degree
+70,female,A4,5,58,63,73,79,free,CD
+71,male,A4,5,63,55,63,77,standard,CD
+72,female,A1,0,41,51,48,40,free,associate's degree
+73,male,A3,0,61,57,56,44,free,ED
+74,male,A3,3,49,49,41,43,standard,ED
+75,male,A2,3,44,41,38,26,free,associate's degree
+76,male,group E,0,30,26,22,20,standard,ED
+77,male,A1,5,80,78,81,91,standard,BD
+78,female,A4,5,61,74,72,61,standard,ED
+79,female,group E,2,62,68,68,64,standard,master's degree
+80,female,A2,4,47,49,50,43,standard,associate's degree
+81,male,A2,3,49,45,45,57,free,ED
+82,male,A1,5,50,47,54,53,free,CD
+83,male,group E,4,72,64,63,72,standard,associate's degree
+84,male,A4,2,42,39,34,20,free,ED
+85,female,A3,1,73,80,82,81,standard,CD
+86,female,A3,4,76,83,88,86,free,CD
+87,female,A4,4,71,71,74,70,standard,associate's degree
+88,female,A1,3,58,70,67,77,standard,CD
+89,female,A4,1,73,86,82,75,standard,ED
+90,female,A3,4,65,72,74,64,standard,BD
+91,male,A3,1,27,34,36,26,free,ED
+92,male,A3,4,71,79,71,75,standard,ED
+93,male,A3,5,43,45,50,48,free,associate's degree
+94,female,A2,1,79,86,92,78,standard,CD
+95,male,A3,5,78,81,82,69,free,associate's degree
+96,male,A2,5,65,66,62,55,standard,ED
+97,female,group E,5,63,72,70,60,standard,CD
+98,female,A4,0,58,67,62,58,free,CD
+99,female,A4,4,65,67,62,55,standard,BD
+100,male,A2,0,79,67,67,72,standard,CD
+101,male,A4,5,68,74,74,67,standard,BD
+102,female,A4,3,85,91,89,93,standard,associate's degree
+103,male,A2,5,60,44,47,57,standard,ED
+104,male,A3,5,98,86,90,86,standard,CD
+105,female,A3,3,58,67,72,69,standard,CD
+106,female,A4,3,87,100,100,94,standard,master's degree
+107,male,group E,5,66,63,64,60,standard,associate's degree
+108,female,A2,3,52,76,70,59,free,associate's degree
+109,female,A2,2,70,64,72,58,standard,ED
+110,female,A4,5,77,89,98,91,free,associate's degree
+111,male,A3,3,62,55,49,50,standard,ED
+112,male,A1,4,54,53,47,58,standard,associate's degree
+113,female,A4,0,51,58,54,47,standard,CD
+114,female,group E,5,99,100,100,90,standard,BD
+115,male,A3,0,84,77,74,66,standard,ED
+116,female,A2,1,75,85,82,76,free,BD
+117,female,A4,2,78,82,79,88,standard,BD
+118,female,A4,4,51,63,61,71,standard,ED
+119,female,A3,2,55,69,65,78,standard,CD
+120,female,A3,5,79,92,89,87,standard,BD
+121,male,A2,5,91,89,92,87,standard,associate's degree
+122,female,A3,5,88,93,93,92,standard,CD
+123,male,A4,0,63,57,56,42,free,ED
+124,male,group E,1,83,80,73,78,standard,CD
+125,female,A2,1,87,95,86,78,standard,ED
+126,male,A2,0,72,68,67,80,standard,ED
+127,male,A4,5,65,77,74,63,standard,CD
+128,male,A4,2,82,82,74,73,standard,master's degree
+129,female,A1,4,51,49,51,65,standard,BD
+130,male,A4,2,89,84,82,80,standard,master's degree
+131,male,A3,5,53,37,40,37,free,ED
+132,male,group E,5,87,74,70,64,free,CD
+133,female,A3,5,75,81,84,81,standard,CD
+134,male,A4,5,74,79,75,87,free,BD
+135,male,A3,1,58,55,48,40,standard,BD
+136,male,A2,5,51,54,41,45,standard,ED
+137,male,group E,0,70,55,56,53,standard,ED
+138,female,A3,2,59,66,67,78,standard,associate's degree
+139,male,A4,5,71,61,69,83,standard,CD
+140,female,A4,4,76,72,71,73,standard,ED
+141,female,A3,2,59,62,64,61,free,CD
+142,female,group E,5,42,55,54,40,free,CD
+143,male,A1,3,57,43,47,60,standard,ED
+144,male,A4,1,88,73,78,70,standard,CD
+145,female,A3,0,22,39,33,40,free,CD
+146,male,A2,1,88,84,75,79,standard,ED
+147,male,A3,0,73,68,66,53,free,associate's degree
+148,female,A4,5,68,75,81,82,standard,BD
+149,male,group E,5,100,100,93,87,free,associate's degree
+150,male,A1,5,62,67,69,80,standard,ED
+151,male,A1,2,77,67,68,56,standard,BD
+152,female,A2,5,59,70,66,62,standard,associate's degree
+153,male,A4,4,54,49,47,51,standard,BD
+154,male,A4,0,62,67,61,72,standard,ED
+155,female,A3,5,70,89,88,82,standard,CD
+156,female,group E,5,66,74,78,69,free,ED
+157,male,A2,0,60,60,60,53,free,CD
+158,female,A2,5,61,86,87,86,standard,associate's degree
+159,male,A4,2,66,62,64,57,free,associate's degree
+160,male,A2,5,82,78,74,68,free,associate's degree
+161,female,group E,5,75,88,85,86,free,CD
+162,male,A2,2,49,53,52,43,free,master's degree
+163,male,A3,3,52,53,49,59,standard,ED
+164,female,group E,3,81,92,91,93,standard,master's degree
+165,female,A3,5,96,100,100,93,standard,BD
+166,male,A3,5,53,51,51,54,free,ED
+167,female,A2,5,58,76,78,73,free,master's degree
+168,female,A2,5,68,83,78,71,standard,ED
+169,female,A3,5,67,75,70,57,free,CD
+170,male,A1,5,72,73,74,70,standard,ED
+171,male,group E,0,94,88,78,71,standard,ED
+172,female,A4,3,79,86,81,94,standard,CD
+173,female,A3,0,63,67,70,69,standard,associate's degree
+174,female,A3,5,43,51,54,51,free,BD
+175,female,A3,5,81,91,87,91,standard,master's degree
+176,female,A2,5,46,54,58,50,free,ED
+177,female,A3,5,71,77,77,83,standard,associate's degree
+178,female,A2,5,52,70,62,60,free,master's degree
+179,female,A4,5,97,100,100,94,standard,ED
+180,male,A3,5,62,68,75,80,free,master's degree
+181,female,A3,4,46,64,66,56,free,CD
+182,female,group E,4,50,50,47,48,standard,ED
+183,female,A4,4,65,69,70,64,standard,associate's degree
+184,male,A3,5,45,52,49,63,free,ED
+185,male,A3,5,65,67,65,77,free,associate's degree
+186,male,group E,4,80,76,65,76,standard,ED
+187,male,A4,5,62,66,68,62,standard,ED
+188,male,A2,0,48,52,45,47,free,ED
+189,female,A3,0,77,88,87,95,standard,BD
+190,female,group E,0,66,65,69,82,standard,associate's degree
+191,male,A4,5,76,83,79,87,standard,CD
+192,female,A2,4,62,64,66,57,standard,ED
+193,male,A4,5,77,62,62,57,standard,CD
+194,female,A3,5,69,84,85,86,standard,master's degree
+195,male,A4,1,61,55,52,44,standard,associate's degree
+196,male,A3,5,59,69,65,74,free,ED
+197,male,group E,4,55,56,51,54,free,ED
+198,female,A2,0,45,53,55,67,free,CD
+199,female,A2,4,78,79,76,74,free,BD
+200,female,A3,5,67,84,86,73,standard,associate's degree
+201,female,A4,1,65,81,77,90,free,CD
+202,male,A3,2,69,77,69,77,standard,associate's degree
+203,female,A2,1,57,69,68,59,standard,associate's degree
+204,male,A3,0,59,41,42,29,standard,CD
+205,male,A4,5,74,71,78,70,standard,ED
+206,male,group E,3,82,62,62,49,standard,BD
+207,male,group E,5,81,80,76,72,standard,ED
+208,female,A2,3,74,81,76,63,free,CD
+209,female,A2,1,58,61,66,54,free,CD
+210,male,A4,5,80,79,79,87,free,ED
+211,male,A3,0,35,28,27,28,free,CD
+212,female,A3,0,42,62,60,52,free,ED
+213,male,A3,5,60,51,56,48,free,associate's degree
+214,male,group E,5,87,91,81,87,standard,ED
+215,male,A2,5,84,83,75,80,standard,ED
+216,female,group E,5,83,86,88,85,free,associate's degree
+217,female,A3,2,34,42,39,53,free,ED
+218,male,A2,0,66,77,70,60,free,ED
+219,male,A2,5,61,56,56,51,standard,ED
+220,female,A4,5,56,68,74,66,standard,ED
+221,male,A2,2,87,85,73,79,standard,associate's degree
+222,female,A3,4,55,65,62,52,free,ED
+223,male,A4,4,86,80,75,89,standard,ED
+224,female,A2,5,52,66,73,82,standard,associate's degree
+225,female,group E,0,45,56,54,44,free,master's degree
+226,female,A3,2,72,72,71,78,standard,CD
+227,male,A4,4,57,50,54,51,standard,ED
+228,male,A1,0,68,72,64,54,free,ED
+229,female,A3,5,88,95,94,92,standard,CD
+230,male,A4,4,76,64,66,64,standard,CD
+231,male,A3,4,46,43,42,34,standard,associate's degree
+232,female,A2,0,67,86,83,97,standard,BD
+233,male,group E,3,92,87,78,71,standard,ED
+234,male,A3,5,83,82,84,70,standard,BD
+235,male,A4,3,80,75,77,87,standard,associate's degree
+236,male,A4,2,63,66,67,81,free,BD
+237,female,A4,5,64,60,74,62,standard,ED
+238,male,A2,1,54,52,51,65,standard,CD
+239,male,A3,3,84,80,80,67,standard,associate's degree
+240,male,A4,5,73,68,66,56,free,ED
+241,female,group E,4,80,83,83,88,standard,BD
+242,female,A4,2,56,52,55,68,standard,ED
+243,male,group E,4,59,51,43,44,standard,CD
+244,male,A4,4,75,74,69,79,standard,ED
+245,male,A3,3,85,76,71,74,standard,associate's degree
+246,male,group E,1,89,76,74,69,standard,associate's degree
+247,female,A2,5,58,70,68,55,standard,ED
+248,female,A2,3,65,64,62,48,standard,ED
+249,male,A3,4,68,60,53,65,standard,ED
+250,male,A1,5,47,49,49,50,standard,ED
+251,female,A4,3,71,83,83,88,free,CD
+252,female,A2,5,60,70,70,68,standard,ED
+253,male,A4,1,80,80,72,62,standard,master's degree
+254,male,A4,4,54,52,52,48,standard,ED
+255,female,group E,1,62,73,70,60,standard,CD
+256,female,A3,1,64,73,68,65,free,associate's degree
+257,male,A3,5,78,77,77,85,standard,associate's degree
+258,female,A2,4,70,75,78,66,standard,CD
+259,female,A3,5,65,81,81,93,free,master's degree
+260,female,A3,5,64,79,77,86,free,ED
+261,male,A3,5,79,79,78,64,standard,CD
+262,female,A3,3,44,50,51,56,free,ED
+263,female,group E,1,99,93,90,82,standard,ED
+264,male,A4,1,76,73,68,62,standard,ED
+265,male,A4,4,59,42,41,43,free,ED
+266,female,A3,1,63,75,81,85,standard,BD
+267,female,A4,3,69,72,77,81,standard,ED
+268,female,A4,5,88,92,95,86,standard,associate's degree
+269,female,group E,3,71,76,70,69,free,CD
+270,male,A3,2,69,63,61,63,standard,BD
+271,male,A3,1,58,49,42,35,standard,CD
+272,female,A4,0,47,53,58,55,free,associate's degree
+273,female,A4,1,65,70,71,83,standard,CD
+274,male,A2,5,88,85,76,71,standard,CD
+275,male,A3,3,83,78,73,85,standard,BD
+276,female,A3,5,85,92,93,86,standard,ED
+277,female,group E,5,59,63,75,84,standard,ED
+278,female,A3,0,65,86,80,70,free,ED
+279,male,A2,2,73,56,57,69,free,BD
+280,male,A4,0,53,52,42,38,standard,ED
+281,male,A4,1,45,48,46,36,standard,ED
+282,female,A4,2,73,79,84,82,free,BD
+283,female,A4,5,70,78,78,73,free,CD
+284,female,A2,4,37,46,46,43,standard,ED
+285,male,A2,5,81,82,82,78,standard,associate's degree
+286,male,group E,5,97,82,88,76,standard,associate's degree
+287,female,A2,1,67,89,82,77,standard,ED
+288,male,A2,2,88,75,76,65,free,BD
+289,male,group E,5,77,76,77,87,standard,ED
+290,male,A3,1,76,70,68,66,standard,associate's degree
+291,male,A4,4,86,73,70,64,standard,ED
+292,male,A3,5,63,60,57,64,standard,ED
+293,female,group E,0,65,73,75,79,standard,BD
+294,male,A4,5,78,77,80,69,free,ED
+295,male,A2,4,67,62,60,50,free,associate's degree
+296,male,A1,5,46,41,43,49,standard,ED
+297,male,group E,5,71,74,68,56,standard,associate's degree
+298,male,A3,5,40,46,50,37,free,ED
+299,male,A4,1,90,87,75,78,free,associate's degree
+300,male,A1,5,81,78,81,91,free,CD
+301,male,A4,0,56,54,52,40,free,ED
+302,female,A3,5,67,84,81,88,standard,associate's degree
+303,male,A2,3,80,76,64,52,standard,associate's degree
+304,female,A3,5,74,75,83,93,standard,associate's degree
+305,male,A1,0,69,67,69,80,standard,CD
+306,male,group E,5,99,87,81,91,standard,CD
+307,male,A3,1,51,52,44,37,standard,ED
+308,female,A2,4,53,71,67,70,free,associate's degree
+309,female,A4,2,49,57,52,49,free,ED
+310,female,A2,1,73,76,80,76,standard,associate's degree
+311,male,A2,3,66,60,57,63,standard,BD
+312,male,A4,5,67,61,68,57,standard,BD
+313,female,A3,5,68,67,69,73,free,associate's degree
+314,female,A3,5,59,64,75,84,standard,BD
+315,male,A3,3,71,66,65,78,standard,ED
+316,female,A4,5,77,82,91,98,standard,master's degree
+317,male,A3,2,83,72,78,72,standard,associate's degree
+318,male,A2,1,63,71,69,73,standard,BD
+319,female,A4,4,56,65,63,66,free,associate's degree
+320,female,A3,5,67,79,84,71,free,ED
+321,female,group E,0,75,86,79,82,standard,ED
+322,female,A3,3,71,81,80,74,standard,CD
+323,female,A3,0,43,53,53,58,free,ED
+324,female,A3,0,41,46,43,48,free,ED
+325,female,A3,2,82,90,94,93,standard,CD
+326,male,A3,0,61,61,62,49,standard,CD
+327,male,A1,3,28,23,19,29,free,CD
+328,male,A3,5,82,75,77,87,standard,associate's degree
+329,female,A2,1,41,55,51,60,standard,ED
+330,male,A3,2,71,60,61,71,standard,ED
+331,male,A3,4,47,37,35,41,standard,associate's degree
+332,male,group E,5,62,56,53,60,standard,associate's degree
+333,male,A2,3,90,78,81,83,standard,associate's degree
+334,female,A3,4,83,93,95,98,standard,BD
+335,female,A2,0,61,68,66,52,free,CD
+336,male,A4,5,76,70,69,81,standard,ED
+337,male,A3,2,49,51,43,53,standard,associate's degree
+338,female,A2,0,24,38,27,31,free,ED
+339,female,A4,5,35,55,60,46,free,ED
+340,male,A3,2,58,61,52,39,free,ED
+341,female,A3,4,61,73,63,69,standard,ED
+342,female,A2,5,69,76,74,71,standard,ED
+343,male,A4,5,67,72,67,76,standard,associate's degree
+344,male,A4,1,79,73,67,76,standard,CD
+345,female,A3,0,72,80,75,86,standard,ED
+346,male,A2,4,62,61,57,62,standard,CD
+347,female,A3,5,77,94,95,96,standard,BD
+348,male,A4,4,75,74,66,63,free,ED
+349,male,group E,0,87,74,76,70,standard,associate's degree
+350,female,A2,2,52,65,69,70,standard,BD
+351,male,group E,1,66,57,52,51,standard,CD
+352,female,A3,5,63,78,80,71,standard,CD
+353,female,A3,4,46,58,57,62,standard,associate's degree
+354,female,A3,3,59,71,70,66,standard,CD
+355,female,A2,4,61,72,70,57,standard,BD
+356,male,A1,0,63,61,61,64,standard,associate's degree
+357,female,A3,5,42,66,69,71,free,CD
+358,male,A4,2,59,62,61,67,free,CD
+359,female,A4,2,80,90,89,88,standard,CD
+360,female,A2,4,58,62,59,67,standard,ED
+361,male,A2,5,85,84,78,77,standard,ED
+362,female,A3,3,52,58,58,57,standard,CD
+363,female,A4,2,27,34,32,20,free,ED
+364,male,A3,1,59,60,58,56,standard,CD
+365,male,A1,5,49,58,60,58,free,BD
+366,male,A3,5,69,58,53,64,standard,ED
+367,male,A3,0,61,66,61,72,free,BD
+368,female,A1,4,44,64,58,47,free,ED
+369,female,A4,1,73,84,85,98,standard,ED
+370,male,group E,3,84,77,71,81,standard,CD
+371,female,A3,5,45,73,70,63,free,CD
+372,male,A4,2,74,74,72,68,standard,ED
+373,female,A4,5,82,97,96,86,standard,CD
+374,female,A4,3,59,70,73,74,standard,BD
+375,male,group E,0,46,43,41,51,free,associate's degree
+376,female,A4,1,80,90,82,75,standard,ED
+377,female,A4,5,85,95,100,94,free,master's degree
+378,female,A1,2,71,83,77,85,standard,ED
+379,male,A1,2,66,64,62,53,standard,BD
+380,female,A2,0,80,86,83,92,standard,associate's degree
+381,male,A3,5,87,100,95,92,standard,associate's degree
+382,male,A3,4,79,81,71,80,free,master's degree
+383,female,group E,4,38,49,45,48,free,ED
+384,female,A1,0,38,43,43,53,free,ED
+385,female,group E,3,67,76,75,85,standard,CD
+386,female,group E,1,64,73,70,57,standard,BD
+387,female,A3,4,57,78,67,79,free,associate's degree
+388,female,A4,4,62,64,64,55,standard,ED
+389,male,A4,4,73,70,75,79,standard,master's degree
+390,male,group E,5,73,67,59,67,free,ED
+391,female,A4,2,77,68,77,80,standard,CD
+392,male,group E,0,76,67,67,69,standard,CD
+393,male,A3,5,57,54,56,48,standard,associate's degree
+394,female,A3,5,65,74,77,91,standard,ED
+395,male,A1,3,48,45,41,44,free,ED
+396,female,A2,2,50,67,63,72,free,ED
+397,female,A3,1,85,89,95,91,standard,associate's degree
+398,male,A2,3,74,63,57,68,standard,ED
+399,male,A4,0,60,59,54,48,standard,ED
+400,female,A3,5,59,54,67,72,standard,ED
+401,male,A1,3,53,43,43,47,standard,CD
+402,female,A1,4,49,65,55,65,free,CD
+403,female,A4,5,88,99,100,92,standard,ED
+404,female,A3,0,54,59,62,48,standard,ED
+405,female,A3,1,63,73,68,57,standard,ED
+406,male,A2,5,65,65,63,64,standard,associate's degree
+407,female,A2,0,82,80,77,83,standard,associate's degree
+408,female,A4,5,52,57,56,42,free,ED
+409,male,A4,5,87,84,85,93,standard,associate's degree
+410,female,A4,5,70,71,74,60,standard,master's degree
+411,male,group E,5,84,83,78,70,standard,CD
+412,male,A4,2,71,66,60,47,standard,associate's degree
+413,male,A2,5,63,67,67,73,standard,ED
+414,female,A3,5,51,72,79,88,free,BD
+415,male,group E,2,84,73,69,78,standard,ED
+416,male,A3,5,71,74,68,54,standard,BD
+417,male,A3,3,74,73,67,74,standard,associate's degree
+418,male,A4,1,68,59,62,58,standard,CD
+419,male,group E,5,57,56,54,46,free,ED
+420,female,A3,5,82,93,93,91,free,associate's degree
+421,female,A4,5,57,58,64,53,standard,ED
+422,female,A4,5,47,58,67,77,free,master's degree
+423,female,A1,5,59,85,80,70,standard,ED
+424,male,A2,0,41,39,34,31,free,CD
+425,female,A3,4,62,67,62,54,free,CD
+426,male,A3,3,86,83,86,75,standard,BD
+427,male,A3,3,69,71,65,76,free,ED
+428,male,A1,3,65,59,53,67,free,ED
+429,male,A3,0,68,63,54,47,free,ED
+430,male,A3,0,64,66,59,73,free,associate's degree
+431,female,A3,0,61,72,70,66,standard,ED
+432,male,A3,2,61,56,55,66,standard,ED
+433,female,A1,0,47,59,50,40,free,ED
+434,male,A3,3,73,66,66,57,standard,ED
+435,male,A3,5,50,48,53,63,free,CD
+436,male,A4,3,75,68,64,60,standard,associate's degree
+437,male,A4,2,75,66,73,82,free,associate's degree
+438,male,A3,2,70,56,51,64,standard,ED
+439,male,A4,5,89,88,82,81,standard,ED
+440,female,A3,5,67,81,79,93,standard,CD
+441,female,A4,2,78,81,80,70,standard,ED
+442,female,A1,1,59,73,69,77,free,ED
+443,female,A2,0,73,83,76,64,standard,associate's degree
+444,male,A1,1,79,82,73,86,free,ED
+445,female,A3,5,67,74,77,91,standard,ED
+446,male,A4,0,69,66,60,56,free,CD
+447,male,A3,5,86,81,80,68,standard,ED
+448,male,A2,3,47,46,42,37,standard,ED
+449,male,A2,1,81,73,72,64,standard,associate's degree
+450,female,A3,5,64,85,85,91,free,CD
+451,female,group E,0,100,92,97,87,standard,CD
+452,female,A3,2,65,77,74,72,free,associate's degree
+453,male,A3,1,65,58,49,62,free,CD
+454,female,A3,2,53,61,62,56,free,associate's degree
+455,male,A3,0,37,56,47,51,free,BD
+456,female,A4,3,79,89,89,93,standard,BD
+457,male,A4,0,53,54,48,46,free,associate's degree
+458,female,group E,4,100,100,100,87,standard,BD
+459,male,A2,5,72,65,68,65,standard,ED
+460,male,A3,4,53,58,55,64,free,BD
+461,male,A2,3,54,54,45,57,free,CD
+462,female,group E,1,71,70,76,72,standard,CD
+463,female,A3,3,77,90,91,94,free,CD
+464,male,A1,5,75,58,62,55,standard,BD
+465,female,A3,1,84,87,91,90,standard,CD
+466,female,A4,1,26,31,38,28,free,associate's degree
+467,male,A1,5,72,67,65,73,free,ED
+468,female,A1,5,77,88,85,87,free,ED
+469,male,A3,3,91,74,76,70,standard,CD
+470,female,A3,5,83,85,90,82,standard,associate's degree
+471,female,A3,1,63,69,74,73,standard,ED
+472,female,A3,5,68,86,84,83,standard,associate's degree
+473,female,A4,2,59,67,61,75,standard,ED
+474,female,A2,5,90,90,91,87,standard,associate's degree
+475,female,A4,5,71,76,83,96,standard,BD
+476,male,group E,5,76,62,66,53,standard,BD
+477,male,A4,3,80,68,72,58,standard,associate's degree
+478,female,A4,0,55,64,70,59,standard,master's degree
+479,male,group E,4,76,71,67,70,standard,associate's degree
+480,male,A2,5,73,71,68,63,standard,ED
+481,female,A4,3,52,59,56,42,free,associate's degree
+482,male,A3,4,68,68,61,74,free,CD
+483,male,A1,3,59,52,46,41,standard,ED
+484,female,A2,3,49,52,54,44,standard,associate's degree
+485,male,A3,1,70,74,71,76,standard,ED
+486,male,A4,4,61,47,56,48,free,CD
+487,female,A3,3,60,75,74,62,free,associate's degree
+488,male,A2,5,64,53,57,63,standard,ED
+489,male,A1,5,79,82,82,76,free,associate's degree
+490,female,A1,4,65,85,76,64,free,associate's degree
+491,female,A3,2,64,64,70,58,standard,associate's degree
+492,female,A3,3,83,83,90,88,standard,CD
+493,female,A3,1,81,88,90,88,standard,BD
+494,female,A2,4,54,64,68,56,standard,ED
+495,male,A4,5,68,64,66,60,standard,ED
+496,female,A3,0,54,48,52,41,standard,CD
+497,female,A4,5,59,78,76,71,free,CD
+498,female,A2,2,66,69,68,54,standard,ED
+499,male,group E,2,76,71,72,61,standard,CD
+500,female,A4,2,74,79,82,72,standard,master's degree
+501,female,A2,5,94,87,92,85,standard,associate's degree
+502,male,A3,2,63,61,54,43,free,CD
+503,female,group E,5,95,89,92,82,standard,associate's degree
+504,female,A4,4,40,59,54,48,free,master's degree
+505,female,A2,4,82,82,80,73,standard,ED
+506,male,A1,1,68,70,66,59,standard,ED
+507,male,A2,2,55,59,54,51,free,BD
+508,male,A3,0,79,78,77,84,standard,master's degree
+509,female,A3,1,86,92,87,88,standard,BD
+510,male,A4,0,76,71,73,76,standard,CD
+511,male,A1,4,64,50,43,52,standard,ED
+512,male,A4,0,62,49,52,40,free,ED
+513,female,A2,5,54,61,62,60,standard,ED
+514,female,A2,5,77,97,94,81,free,master's degree
+515,female,A3,5,76,87,85,92,standard,ED
+516,female,A4,3,74,89,84,80,standard,CD
+517,female,group E,5,66,74,73,80,standard,CD
+518,female,A4,5,66,78,78,74,standard,ED
+519,female,A2,5,67,78,79,86,free,ED
+520,male,A4,1,71,49,52,42,standard,CD
+521,female,A3,0,91,86,84,82,standard,associate's degree
+522,male,A4,4,69,58,57,62,standard,BD
+523,male,A3,2,54,59,50,41,free,master's degree
+524,male,A3,5,53,52,49,50,standard,ED
+525,male,group E,4,68,60,59,73,standard,CD
+526,male,A3,5,56,61,60,59,free,ED
+527,female,A3,3,36,53,43,52,free,ED
+528,female,A4,1,29,41,47,52,free,BD
+529,female,A3,4,62,74,70,56,standard,associate's degree
+530,female,A3,5,68,67,73,78,standard,associate's degree
+531,female,A3,1,47,54,53,67,standard,ED
+532,male,group E,5,62,61,58,54,standard,associate's degree
+533,female,group E,5,79,88,94,80,standard,associate's degree
+534,male,A2,5,73,69,68,60,standard,ED
+535,female,A3,5,66,83,83,93,free,BD
+536,male,A3,5,51,60,58,52,standard,associate's degree
+537,female,A4,2,51,66,62,48,standard,ED
+538,male,group E,5,85,66,71,81,standard,BD
+539,male,A1,5,97,92,86,76,standard,associate's degree
+540,male,A3,5,75,69,68,56,standard,ED
+541,male,A4,5,79,82,80,68,free,associate's degree
+542,female,A3,2,81,77,79,84,standard,associate's degree
+543,female,A4,1,82,95,89,98,standard,associate's degree
+544,female,A4,4,64,63,66,55,standard,master's degree
+545,male,group E,5,78,83,80,79,free,ED
+546,female,A1,5,92,100,97,98,standard,ED
+547,male,A3,5,72,67,64,50,standard,ED
+548,female,A3,2,62,67,64,57,free,ED
+549,male,A3,4,79,72,69,72,standard,master's degree
+550,male,A3,1,79,76,65,72,free,ED
+551,male,A2,5,87,90,88,87,free,BD
+552,female,A2,0,40,48,50,48,standard,associate's degree
+553,male,A4,3,77,62,64,55,free,CD
+554,male,group E,3,53,45,40,31,standard,associate's degree
+555,female,A3,2,32,39,33,35,free,CD
+556,female,A3,5,55,72,79,87,standard,associate's degree
+557,male,A3,0,61,67,66,59,free,master's degree
+558,female,A2,2,53,70,70,62,free,associate's degree
+559,male,A4,3,73,66,62,52,standard,ED
+560,female,A4,5,74,75,79,85,standard,CD
+561,female,A3,2,63,74,74,63,standard,CD
+562,male,A3,5,96,90,92,84,standard,BD
+563,female,A4,5,63,80,80,70,free,CD
+564,male,A2,1,48,51,46,36,free,BD
+565,male,A2,1,48,43,45,58,standard,associate's degree
+566,female,group E,5,92,100,100,97,free,BD
+567,female,A4,5,61,71,78,65,free,master's degree
+568,male,A2,0,63,48,47,59,free,ED
+569,male,A4,1,68,68,67,79,free,BD
+570,male,A2,5,71,75,70,61,standard,CD
+571,male,A1,0,91,96,92,83,standard,BD
+572,female,A3,2,53,62,56,49,standard,CD
+573,female,A3,5,50,66,64,53,free,ED
+574,female,group E,1,74,81,71,72,standard,ED
+575,male,A1,5,40,55,53,57,free,associate's degree
+576,male,A1,5,61,51,52,41,standard,CD
+577,female,A2,3,81,91,89,90,standard,ED
+578,female,A2,5,48,56,58,55,free,CD
+579,female,A4,3,53,61,68,66,standard,master's degree
+580,female,A4,0,81,97,96,95,standard,ED
+581,female,group E,0,77,79,80,73,standard,ED
+582,female,A4,4,63,73,78,64,free,BD
+583,female,A4,5,73,75,80,78,standard,associate's degree
+584,female,A4,0,69,77,77,78,standard,CD
+585,female,A3,3,65,76,76,70,standard,associate's degree
+586,female,A1,3,55,73,73,74,standard,ED
+587,female,A3,2,44,63,62,55,free,BD
+588,female,A3,3,54,64,65,78,standard,CD
+589,female,A1,2,48,66,65,72,standard,ED
+590,male,A3,0,58,57,54,40,free,CD
+591,male,A1,4,71,62,50,46,standard,ED
+592,male,group E,4,68,68,64,61,standard,BD
+593,female,group E,1,74,76,73,80,standard,ED
+594,female,A3,5,92,100,99,89,standard,BD
+595,female,A3,5,56,79,72,60,standard,BD
+596,male,A2,0,30,24,15,18,free,ED
+597,male,A1,4,53,54,48,35,standard,ED
+598,female,A4,4,69,77,73,83,standard,ED
+599,female,A4,3,65,82,81,95,standard,ED
+600,female,A4,4,54,60,63,71,standard,master's degree
+601,female,A3,4,29,29,30,28,standard,ED
+602,female,group E,2,76,78,80,74,standard,CD
+603,male,A4,2,60,57,51,52,free,ED
+604,male,A4,5,84,89,90,78,free,master's degree
+605,male,A3,3,75,72,62,56,standard,ED
+606,female,A3,0,85,84,82,80,standard,associate's degree
+607,female,A3,3,40,58,54,47,free,master's degree
+608,female,group E,1,61,64,62,57,standard,CD
+609,female,A2,3,58,63,65,69,standard,associate's degree
+610,male,A4,5,69,60,63,71,free,CD
+611,female,A3,0,58,59,66,63,standard,CD
+612,male,A3,5,94,90,91,89,standard,BD
+613,female,A3,3,65,77,74,67,standard,associate's degree
+614,female,A1,0,82,93,93,98,standard,associate's degree
+615,female,A3,3,60,68,72,63,standard,ED
+616,female,group E,1,37,45,38,26,standard,BD
+617,male,A4,2,88,78,83,86,standard,BD
+618,male,A4,1,95,81,84,71,standard,master's degree
+619,male,A3,5,65,73,68,60,free,associate's degree
+620,female,A3,0,35,61,54,45,free,ED
+621,male,A2,3,62,63,56,43,free,BD
+622,male,A3,5,58,51,52,40,free,ED
+623,male,A1,5,100,96,86,75,standard,CD
+624,female,group E,1,61,58,62,59,free,BD
+625,male,A4,5,100,97,99,94,standard,CD
+626,male,A2,5,69,70,63,69,free,associate's degree
+627,male,A4,3,61,48,46,40,standard,associate's degree
+628,male,A4,2,49,57,46,43,free,CD
+629,female,A3,5,44,51,55,57,standard,ED
+630,male,A4,4,67,64,70,67,standard,CD
+631,male,A2,0,79,60,65,75,standard,ED
+632,female,A2,5,66,74,81,82,standard,BD
+633,female,A3,4,75,88,85,92,standard,ED
+634,male,A4,4,84,84,80,72,standard,ED
+635,male,A1,2,71,74,64,51,standard,ED
+636,female,A2,5,67,80,81,91,free,ED
+637,female,A4,5,80,92,88,79,standard,ED
+638,male,group E,0,86,76,74,71,standard,CD
+639,female,A4,1,76,74,73,85,standard,associate's degree
+640,male,A4,1,41,52,51,62,standard,ED
+641,female,A4,5,74,88,90,80,free,associate's degree
+642,female,A2,1,72,81,79,80,free,ED
+643,female,group E,5,74,79,80,75,standard,ED
+644,male,A2,2,70,65,60,46,standard,ED
+645,female,A2,5,65,81,81,86,standard,BD
+646,female,A4,0,59,70,65,76,standard,associate's degree
+647,female,group E,2,64,62,68,59,free,ED
+648,female,A2,4,50,53,55,60,standard,ED
+649,female,A4,5,69,79,81,91,standard,CD
+650,male,A3,5,51,56,53,56,free,ED
+651,female,A1,5,68,80,76,62,standard,ED
+652,female,A4,5,85,86,98,92,standard,CD
+653,female,A1,5,65,70,74,62,standard,associate's degree
+654,female,A2,3,73,79,79,89,standard,ED
+655,female,A2,1,62,67,67,75,standard,CD
+656,male,A3,2,77,67,64,61,free,associate's degree
+657,male,A4,3,69,66,61,63,standard,ED
+658,female,A4,4,43,60,58,45,free,associate's degree
+659,male,A4,0,90,87,85,88,standard,associate's degree
+660,male,A3,4,74,77,73,74,free,CD
+661,male,A3,2,73,66,63,77,standard,ED
+662,female,A4,2,55,71,69,80,free,CD
+663,female,A3,2,65,69,67,68,standard,ED
+664,male,A4,4,80,63,63,69,standard,associate's degree
+665,female,A3,5,50,60,60,56,free,ED
+666,female,A3,5,63,73,71,82,free,CD
+667,female,A2,0,77,85,87,88,free,BD
+668,male,A3,0,73,74,61,72,standard,CD
+669,male,A4,5,81,72,77,90,standard,associate's degree
+670,female,A3,1,66,76,68,57,free,ED
+671,male,A4,0,52,57,50,43,free,associate's degree
+672,female,A3,2,69,78,76,70,standard,CD
+673,female,A3,5,65,84,84,73,standard,associate's degree
+674,female,A4,5,69,77,78,69,standard,ED
+675,female,A2,5,50,64,66,63,standard,CD
+676,female,group E,5,73,78,76,75,standard,CD
+677,female,A3,5,70,82,76,71,standard,ED
+678,male,A4,2,81,75,78,68,free,associate's degree
+679,male,A4,4,63,61,60,55,free,CD
+680,female,A4,1,67,72,74,60,standard,ED
+681,male,A2,4,60,68,60,50,standard,ED
+682,male,A2,3,62,55,54,52,standard,ED
+683,female,A3,5,29,40,44,39,free,ED
+684,male,A2,5,62,66,68,63,standard,CD
+685,female,group E,5,94,99,100,90,standard,master's degree
+686,male,group E,5,85,75,68,57,standard,CD
+687,male,A4,2,77,78,73,78,free,associate's degree
+688,male,A1,1,53,58,44,33,free,ED
+689,male,group E,0,93,90,83,90,free,CD
+690,female,A3,4,49,53,53,61,standard,associate's degree
+691,female,group E,3,73,76,78,69,free,associate's degree
+692,female,A3,5,66,74,81,87,free,BD
+693,female,A4,1,77,77,73,77,standard,associate's degree
+694,female,A3,1,49,63,56,47,standard,ED
+695,female,A4,3,79,89,86,77,free,CD
+696,female,A3,5,75,82,90,85,standard,associate's degree
+697,female,A1,3,59,72,70,66,standard,BD
+698,female,A4,5,57,78,79,87,standard,associate's degree
+699,male,A3,2,66,66,59,60,free,ED
+700,female,group E,5,79,81,82,68,standard,BD
+701,female,A2,3,57,67,72,68,standard,ED
+702,male,A1,5,87,84,87,92,standard,BD
+703,female,A4,1,63,64,67,73,standard,CD
+704,female,A2,5,59,63,64,50,free,ED
+705,male,A1,4,62,72,65,78,free,BD
+706,male,A4,2,46,34,36,30,standard,ED
+707,male,A3,0,66,59,52,40,standard,CD
+708,male,A4,2,89,87,79,81,standard,ED
+709,female,A4,5,42,61,58,45,free,associate's degree
+710,male,A3,5,93,84,90,76,standard,CD
+711,female,group E,5,80,85,85,98,standard,ED
+712,female,A4,3,98,100,99,92,standard,CD
+713,male,A4,3,81,81,84,82,standard,master's degree
+714,female,A2,5,60,70,74,72,standard,ED
+715,female,A2,5,76,94,87,99,free,associate's degree
+716,male,A3,5,73,78,72,61,standard,associate's degree
+717,female,A3,5,96,96,99,88,standard,associate's degree
+718,female,A3,4,76,76,74,71,standard,ED
+719,male,group E,5,91,73,80,75,free,associate's degree
+720,female,A3,2,62,72,70,68,free,CD
+721,male,A4,5,55,59,59,67,free,ED
+722,female,A2,5,74,90,88,75,free,ED
+723,male,A3,4,50,48,42,34,standard,ED
+724,male,A2,1,47,43,41,52,standard,CD
+725,male,group E,5,81,74,71,76,standard,CD
+726,female,group E,5,65,75,77,91,standard,associate's degree
+727,male,group E,5,68,51,57,58,standard,ED
+728,female,A4,3,73,92,84,78,free,ED
+729,male,A3,2,53,39,37,44,standard,CD
+730,female,A2,5,68,77,80,66,free,associate's degree
+731,male,A1,1,55,46,43,49,free,ED
+732,female,A3,5,87,89,94,86,standard,CD
+733,male,A4,0,55,47,44,40,standard,ED
+734,female,group E,4,53,58,57,66,free,CD
+735,male,A3,0,67,57,59,66,standard,master's degree
+736,male,A3,3,92,79,84,83,standard,associate's degree
+737,female,A2,5,53,66,73,87,free,CD
+738,male,A4,4,81,71,73,75,standard,associate's degree
+739,male,A3,0,61,60,55,69,free,ED
+740,male,A4,3,80,73,72,59,standard,BD
+741,female,A1,2,37,57,56,54,free,associate's degree
+742,female,A3,2,81,84,82,70,standard,ED
+743,female,A3,5,59,73,72,68,standard,associate's degree
+744,male,A2,4,55,55,47,48,free,CD
+745,male,A4,0,72,79,74,63,standard,associate's degree
+746,male,A4,3,69,75,71,85,standard,ED
+747,male,A3,0,69,64,68,59,standard,CD
+748,female,A3,1,50,60,59,67,free,BD
+749,male,A2,5,87,84,86,84,standard,CD
+750,male,A4,5,71,69,68,57,standard,ED
+751,male,group E,4,68,72,65,73,standard,CD
+752,male,A3,5,79,77,75,84,free,master's degree
+753,female,A3,5,77,90,85,92,standard,ED
+754,male,A3,4,58,55,53,66,free,associate's degree
+755,female,group E,1,84,95,92,89,standard,associate's degree
+756,male,A4,2,55,58,52,43,standard,CD
+757,male,group E,5,70,68,72,60,free,BD
+758,female,A4,5,52,59,65,68,free,CD
+759,male,A2,5,69,77,77,78,standard,CD
+760,female,A3,1,53,72,64,61,free,ED
+761,female,A4,0,48,58,54,40,standard,ED
+762,male,A4,5,78,81,86,80,standard,ED
+763,female,A2,3,62,62,63,73,standard,ED
+764,male,A4,3,60,63,59,63,standard,CD
+765,female,A2,3,74,72,72,60,standard,ED
+766,female,A3,5,58,75,77,80,standard,ED
+767,male,A2,5,76,62,60,58,standard,ED
+768,female,A4,3,68,71,75,84,standard,ED
+769,male,A1,4,58,60,57,59,free,CD
+770,male,A2,1,52,48,49,50,standard,ED
+771,male,A4,4,75,73,74,69,standard,BD
+772,female,A2,5,52,67,72,71,free,ED
+773,female,A3,3,62,78,79,89,free,BD
+774,male,A2,4,66,65,60,51,standard,CD
+775,female,A2,1,49,58,55,56,free,ED
+776,female,A2,4,66,72,70,63,standard,ED
+777,female,A3,1,35,44,43,51,free,CD
+778,female,A1,5,72,79,82,75,standard,CD
+779,male,group E,5,94,85,82,70,standard,associate's degree
+780,female,A4,3,46,56,57,64,free,associate's degree
+781,female,A2,2,77,90,84,81,standard,master's degree
+782,female,A2,5,76,85,82,77,free,ED
+783,female,A3,5,52,59,62,49,standard,associate's degree
+784,male,A3,5,91,81,79,86,standard,BD
+785,female,A2,5,32,51,44,41,standard,ED
+786,female,group E,1,72,79,77,78,free,ED
+787,female,A2,4,19,38,32,30,standard,CD
+788,male,A3,4,68,65,61,74,free,associate's degree
+789,female,A3,4,52,65,61,64,free,master's degree
+790,female,A2,1,48,62,60,58,standard,ED
+791,female,A4,2,60,66,70,69,free,CD
+792,male,A4,3,66,74,69,72,free,ED
+793,male,group E,5,89,84,77,82,standard,ED
+794,female,A2,2,42,52,51,61,standard,ED
+795,female,group E,5,57,68,73,77,free,associate's degree
+796,male,A4,2,70,70,70,56,standard,ED
+797,female,group E,0,70,84,81,91,free,associate's degree
+798,male,group E,0,69,60,54,51,standard,CD
+799,female,A3,1,52,55,57,65,standard,associate's degree
